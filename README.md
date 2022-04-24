@@ -36,39 +36,39 @@ These roles are for bots only and have specific, high-level permisssions.
 
 * @everyone
   * Guild Perms
-    * + Embed Links
-    * + Attach Files
-    * + Add Reactions
-    * + Use External Emoji
-    * + Use External Stickers
-    * + Read Message History
-    * + Use Application Commands
-    * + Connect
-    * + Use Activities
-    * + Use Voice Activity
-    * + Request to Speak
+    * \+ Embed Links
+    * \+ Attach Files
+    * \+ Add Reactions
+    * \+ Use External Emoji
+    * \+ Use External Stickers
+    * \+ Read Message History
+    * \+ Use Application Commands
+    * \+ Connect
+    * \+ Use Activities
+    * \+ Use Voice Activity
+    * \+ Request to Speak
   * Channel Perms
     * #rules
-      * + View Channel
-      * - Add Reactions
-      * - Use Application Commands
+      * \+ View Channel
+      * \- Add Reactions
+      * \- Use Application Commands
     * #news-and-announcements
-      * - Send Messages
+      * \- Send Messages
     * #events
-      * - Send Messages
+      * \- Send Messages
     * #freebies-and-giveaways
-      * - Send Messages
+      * \- Send Messages
     * #role-room
-      * - Send Messages
+      * \- Send Messages
     * Voice: Shady Pines
-      * - Use Voice Activity
+      * \- Use Voice Activity
     * Voice: Surprise Party Planning
-      * - Connect
+      * \- Connect
     * Category: Archived
-      * - Send Messages
-      * - Create Public Threads
+      * \- Send Messages
+      * \- Create Public Threads
     * #main-lobby
-      * - Attach Files
+      * \- Attach Files
       
 ## Member Roles
 
@@ -79,38 +79,38 @@ All members should have **only** one of the following:
     * None
   * Channel Perms
     * #welcome
-      * + View Channel
-      * - Add Reactions
-      * - Use Application Commands
+      * \+ View Channel
+      * \- Add Reactions
+      * \- Use Application Commands
 
 * Member
   * Guild Perms
-    * + View Channels
-    * + Create Invite
-    * + Change Nickname
-    * + Send Messages
-    * + Send Messages in Threads
-    * + Create Public Threads
-    * + Speak
-    * + Video
-    * + Use Voice Activity
+    * \+ View Channels
+    * \+ Create Invite
+    * \+ Change Nickname
+    * \+ Send Messages
+    * \+ Send Messages in Threads
+    * \+ Create Public Threads
+    * \+ Speak
+    * \+ Video
+    * \+ Use Voice Activity
     
 * Mmbr
   * Guild Perms
-    * + View Channels
-    * + Create Invite
-    * + Change Nickname
-    * + Send Messages
-    * + Send Messages in Threads
-    * + Create Public Threads
-    * + Speak
-    * + Video
+    * \+ View Channels
+    * \+ Create Invite
+    * \+ Change Nickname
+    * \+ Send Messages
+    * \+ Send Messages in Threads
+    * \+ Create Public Threads
+    * \+ Speak
+    * \+ Video
 
 * Muted
   * Guild Perms
-    * + View Channels
-    * + Create Invite
-    * + Change Nickname
+    * \+ View Channels
+    * \+ Create Invite
+    * \+ Change Nickname
 
 ## Staff Roles
 
@@ -124,8 +124,8 @@ All staff should have **only** one of the following roles, *in conjunction* with
 
 * Mod
   * Guild Perms
-    * + Ban Members
-    * + Manage Messages
+    * \+ Ban Members
+    * \+ Manage Messages
   * Private Channels
     * #staff-stuff
     * #gatekeepers
@@ -133,9 +133,9 @@ All staff should have **only** one of the following roles, *in conjunction* with
     
 * Op
   * Guild Perms
-    * + Ban Members
-    * + Kick Members
-    * + Manage Messages
+    * \+ Ban Members
+    * \+ Kick Members
+    * \+ Manage Messages
   * Private Channels
     * #staff-stuff
     * #gatekeepers
@@ -143,13 +143,13 @@ All staff should have **only** one of the following roles, *in conjunction* with
     
 * SrOp
   * Guild Perms
-    * + Manage Roles
-    * + Manage Webhooks
-    * + Ban Members
-    * + Kick Members
-    * + Create Private Threads
-    * + Manage Messages
-    * + Mention @everyone, @here, and All Roles
+    * \+ Manage Roles
+    * \+ Manage Webhooks
+    * \+ Ban Members
+    * \+ Kick Members
+    * \+ Create Private Threads
+    * \+ Manage Messages
+    * \+ Mention @everyone, @here, and All Roles
   * Private Channels
     * #staff-stuff
     * #gatekeepers
@@ -159,13 +159,13 @@ All staff should have **only** one of the following roles, *in conjunction* with
     
 * Admin
   * Guild Perms
-    * + *All Perms Except "Administrator"*
+    * \+ *All Perms Except "Administrator"*
   * Private Channels
     * All Private Channels
     
 * Founder
   * Guild Perms
-    * + Administrator
+    * \+ Administrator
       * *Gives all permissions and bypasses all restrictions.*
     
 ### Specialty Staff
@@ -174,17 +174,17 @@ For staff who perform duties outside of their typical rank.
 
 * Event Manager
   * Guild Perms
-    * + Mention @everyone, @here, and All Roles
+    * \+ Mention @everyone, @here, and All Roles
   * Channel Perms
     * #events
-      * + Send Messages
+      * \+ Send Messages
 
 * Giveaways
   * Guild Perms
     * None
   * Channel Perms
     * #freebies-and-giveaways
-      * + Send Messages
+      * \+ Send Messages
     
 ## Shady Pines
 
@@ -195,9 +195,9 @@ Old fucks.
     * None
   * Channel Perms
     * #shady-pines
-      * + View Channel
+      * \+ View Channel
     * Voice: Shady Pines
-      * + Use Voice Activity
+      * \+ Use Voice Activity
 
 ## Activist Roles
 
@@ -286,4 +286,3 @@ Used to ping groups of interested players for multiplayer games.
 * Splitgate
 * Starcraft II
 * Team Fortress 2
-
