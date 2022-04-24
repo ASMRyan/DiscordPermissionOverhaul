@@ -1,5 +1,7 @@
 # Discord Perms Overhaul
 
+The goal of this overhaul is to sanitize our permissions setup and make it easier to effect future changes when the need arises.
+
 ***Channel Access:***
 *Any category/channel that is not meant to be viewed by members should be marked as private. This will override the member roles' "View Channels" permission. Below is the list of channels assumed to be privatized for the function of this permissions setup:*
 
