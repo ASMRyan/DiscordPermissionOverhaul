@@ -6,16 +6,16 @@
 * #staff-stuff
 * #gatekeepers
 * #bot-wrangling
-* Voice: The Bunker
 * #welcome
 * #shady-pines
+* Voice: The Bunker
 
 ## Bot Roles
 
 These roles are for bots only and have specific, high-level permisssions.
 
 * Bots
-  * (We should see if we can 
+  * (For security purposes, we should see if we can remove this role and configure individual bots manually. This role has the "Admministrator" permission, which is extremely dangerous to grant to a bot we don't control.)
 * Donate Bot
 * DBot
 * YAGPDB.xyz
@@ -153,6 +153,7 @@ All staff should have **only** one of the following roles, *in conjunction* with
   * Private Channels
     * #staff-stuff
     * #gatekeepers
+    * #bot-wrangling
     * Voice: Surprise Party Planning
     * Voice: The Bunker
     
